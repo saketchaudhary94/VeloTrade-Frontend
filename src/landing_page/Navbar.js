@@ -42,16 +42,6 @@ function Navbar() {
                   Support
                 </Link>
               </li>
-              <li class="nav-item">
-                <a
-                  href="https://example.com/dashboard"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="nav-link activ"
-                >
-                  Dashboard
-                </a>
-              </li>
             </ul>
           </form>
         </div>
