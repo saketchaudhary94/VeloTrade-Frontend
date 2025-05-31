@@ -11,32 +11,32 @@ function Footer() {
                 </div>
                 <div className='col'>
                     <h5>Company</h5> 
-                    <a href="javascript:void(0)">Products</a><br></br>
-                    <a href="javascript:void(0)">About </a><br></br>
-                    <a href="javascript:void(0)">Pricing</a><br></br>
-                    <a href="javascript:void(0)">Referral programme</a><br></br>
-                    <a href="javascript:void(0)">Careers</a><br></br>
-                    <a href="javascript:void(0)">Zerodha.tech</a><br></br>
-                    <a href="javascript:void(0)">Open source</a><br></br>
-                    <a href="javascript:void(0)">Press & media</a><br></br>
-                    <a href="javascript:void(0)">Zerodha Cares (CSR)</a><br></br>
+                    <a href="#">Products</a><br></br>
+                    <a href="#">About </a><br></br>
+                    <a href="#">Pricing</a><br></br>
+                    <a href="#">Referral programme</a><br></br>
+                    <a href="#">Careers</a><br></br>
+                    <a href="#">Zerodha.tech</a><br></br>
+                    <a href="#">Open source</a><br></br>
+                    <a href="#">Press & media</a><br></br>
+                    <a href="#">Zerodha Cares (CSR)</a><br></br>
                 </div>
                 <div className='col'>
                     <h5>Support</h5>
-                    <a href="javascript:void(0)">Contact us</a><br></br>
-                    <a href="javascript:void(0)">Support portal</a><br></br>
-                    <a href="javascript:void(0)">Z-Connect blog</a><br></br>
-                    <a href="javascript:void(0)">List of charges</a><br></br>
-                    <a href="javascript:void(0)">Downloads & resources</a><br></br>
-                    <a href="javascript:void(0)">Videos</a><br></br>
-                    <a href="javascript:void(0)">Market overview</a><br></br>
-                    <a href="javascript:void(0)">How to file a complaint?</a><br></br>
-                    <a href="javascript:void(0)">Status of your complaints</a><br></br>
+                    <a href="#">Contact us</a><br></br>
+                    <a href="#">Support portal</a><br></br>
+                    <a href="#">Z-Connect blog</a><br></br>
+                    <a href="#">List of charges</a><br></br>
+                    <a href="#">Downloads & resources</a><br></br>
+                    <a href="#">Videos</a><br></br>
+                    <a href="#">Market overview</a><br></br>
+                    <a href="#">How to file a complaint?</a><br></br>
+                    <a href="#">Status of your complaints</a><br></br>
                 </div>
                 <div className='col'>
                     <h5>Account</h5>
-                    <a href="javascript:void(0)">Open an account</a><br></br>
-                    <a href="javascript:void(0)">Fund transfer</a><br></br>
+                    <a href="#">Open an account</a><br></br>
+                    <a href="#">Fund transfer</a><br></br>
                 </div>
             </div>
             <div className='mt-5  text-muted' style={{fontSize : "12px"}}>
