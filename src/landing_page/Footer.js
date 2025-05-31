@@ -6,37 +6,37 @@ function Footer() {
         <div className='container border-top mt-5'>
             <div className='row mt-5'>
                 <div className='col'>
-                    <img src='media/images/logo.png' alt='logo image' style={{width : "50%"}}/>
+                    <img src='media/images/logo.png' alt='velotrade logo' style={{width : "50%"}}/>
                     <p> &copy; 2010 - 2025, Zerodha Broking Ltd. All rights reserved.</p>
                 </div>
                 <div className='col'>
                     <h5>Company</h5> 
-                    <a href=''>Products</a><br></br>
-                    <a href=''>About </a><br></br>
-                    <a href=''>Pricing</a><br></br>
-                    <a href=''>Referral programme</a><br></br>
-                    <a href=''>Careers</a><br></br>
-                    <a href=''>Zerodha.tech</a><br></br>
-                    <a href=''>Open source</a><br></br>
-                    <a href=''>Press & media</a><br></br>
-                    <a href=''>Zerodha Cares (CSR)</a><br></br>
+                    <a href='#'>Products</a><br></br>
+                    <a href='#'>About </a><br></br>
+                    <a href='#'>Pricing</a><br></br>
+                    <a href='#'>Referral programme</a><br></br>
+                    <a href='#'>Careers</a><br></br>
+                    <a href='#'>Zerodha.tech</a><br></br>
+                    <a href='#'>Open source</a><br></br>
+                    <a href='#'>Press & media</a><br></br>
+                    <a href='#'>Zerodha Cares (CSR)</a><br></br>
                 </div>
                 <div className='col'>
                     <h5>Support</h5>
-                    <a href=''>Contact us</a><br></br>
-                    <a href=''>Support portal</a><br></br>
-                    <a href=''>Z-Connect blog</a><br></br>
-                    <a href=''>List of charges</a><br></br>
-                    <a href=''>Downloads & resources</a><br></br>
-                    <a href=''>Videos</a><br></br>
-                    <a href=''>Market overview</a><br></br>
-                    <a href=''>How to file a complaint?</a><br></br>
-                    <a href=''>Status of your complaints</a><br></br>
+                    <a href='#'>Contact us</a><br></br>
+                    <a href='#'>Support portal</a><br></br>
+                    <a href='#'>Z-Connect blog</a><br></br>
+                    <a href='#'>List of charges</a><br></br>
+                    <a href='#'>Downloads & resources</a><br></br>
+                    <a href='#'>Videos</a><br></br>
+                    <a href='#'>Market overview</a><br></br>
+                    <a href='#'>How to file a complaint?</a><br></br>
+                    <a href='#'>Status of your complaints</a><br></br>
                 </div>
                 <div className='col'>
                     <h5>Account</h5>
-                    <a href=''>Open an account</a><br></br>
-                    <a href=''>Fund transfer</a><br></br>
+                    <a href='#'>Open an account</a><br></br>
+                    <a href='#'>Fund transfer</a><br></br>
                 </div>
             </div>
             <div className='mt-5  text-muted' style={{fontSize : "12px"}}>
