@@ -5,7 +5,7 @@ function LeftSection({imageUrl , productName , productDescription , tryDemo , le
        <div className='container mt-5'>
         <div className='row mt-5 p-5'>
             <div className='col-8'>
-                <img src={imageUrl} alt='left image'/>
+                <img src={imageUrl} alt='left'/>
             </div>
             <div className='col-4' style={{lineHeight : "2"}}>
                 <h2>{productName}</h2>
