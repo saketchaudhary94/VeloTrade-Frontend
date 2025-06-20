@@ -10,7 +10,7 @@ function Navbar() {
             <img
               src="media/images/logo.png"
               style={{ width: "25%" }}
-              alt="logo image"
+              alt="logo"
             />
           </Link>
         </div>
