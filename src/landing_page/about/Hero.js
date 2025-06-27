@@ -15,8 +15,8 @@ function Hero() {
                 </div>
                 <div className='col p-5'>
                     <p>In addition, we run a number of popular open online<br></br> educational and community initiatives to empower retail<br></br> traders and investors.</p>
-                    <p><a href='' style={{textDecoration : "none"}}>Rainmatter</a>, our fintech fund and incubator, has invested<br></br> in several fintech startups with the goal of growing the<br></br> Indian capital markets.</p>
-                    <p>And yet, we are always up to something new every day.<br></br> Catch up on the latest updates on our <a href='' style={{textDecoration : "none"}}>blog</a> or see what<br></br> the media is <a href='' style={{textDecoration : "none"}}>saying about us</a>.</p>
+                    <p>Rainmatter, our fintech fund and incubator, has invested<br></br> in several fintech startups with the goal of growing the<br></br> Indian capital markets.</p>
+                    <p>And yet, we are always up to something new every day.<br></br> Catch up on the latest updates on our blog or see what<br></br> the media is saying about us.</p>
                 </div>
             </div>
         </div>

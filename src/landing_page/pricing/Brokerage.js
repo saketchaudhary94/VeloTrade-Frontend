@@ -5,7 +5,7 @@ function Brokerage() {
         <div className='container'>
             <div className='row text-center border-top p-5 mt-5'>
                 <div className='col-6 p-4'>
-                    <a style={{textDecoration : "none"}} href=''><h3 className='fs-5'>Brokerage calculator</h3> </a>
+                    <h3 className='fs-5'>Brokerage calculator</h3>
                     <ul style={{textAlign : "left" , lineHeight : "2" , fontSize : "14px"}} className='text-muted mt-4'>
                         <li>Call & Trade and RMS auto-squareoff: Additional charges of ₹50 + GST per order.</li>
                         <li>Digital contract notes will be sent via e-mail.</li>
@@ -16,7 +16,7 @@ function Brokerage() {
                     </ul>
                 </div>
                 <div className='col-6 p-4'>
-                    <a style={{textDecoration : "none"}} href=''><h3 className='fs-5'>List of charges</h3> </a>
+                    <h3 className='fs-5'>List of charges</h3>
                 </div>
             </div>
         </div>

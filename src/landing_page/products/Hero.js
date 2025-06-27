@@ -6,7 +6,7 @@ function Hero() {
         <div className='row text-center mt-5'>
            <h1 style={{fontSize : "2.9em"}}>VeloTrade Products</h1> 
            <p className='fs-5'>Sleek, modern, and intuitive trading platforms</p>
-           <p className='fs-6'>Check out our  <a style={{textDecoration : "none"}} href=''>investment offerings <i className="fa-solid fa-arrow-right-long"></i></a></p>
+           <p className='fs-6'>Check out our investment offerings <i className="fa-solid fa-arrow-right-long"></i></p>
         </div>
        </div>
     );
