@@ -10,7 +10,7 @@ function CreateTicket() {
         <div className="col-4 ">
           <p className="fs-5 mb-4">
             {" "}
-            <i class="fa-solid fa-circle-plus"></i> Account Opening
+            <i className="fa-solid fa-circle-plus"></i> Account Opening
           </p>
 
           <button
@@ -57,7 +57,7 @@ function CreateTicket() {
         <div className="col-4">
           <p className="fs-5 mb-4">
             {" "}
-            <i class="fa-solid fa-user"></i> Your VeloTrade Account
+            <i className="fa-solid fa-user"></i> Your VeloTrade Account
           </p>
           <button
             type="button"
@@ -103,7 +103,7 @@ function CreateTicket() {
         <div className="col-4">
           <p className="fs-5 mb-4">
             {" "}
-            <i class="fa-solid fa-square-poll-vertical"></i> Kite
+            <i className="fa-solid fa-square-poll-vertical"></i> Kite
           </p>
           <button
             type="button"
@@ -160,7 +160,7 @@ function CreateTicket() {
         <div className="col-4 ">
           <p className="fs-5 mb-4">
             {" "}
-            <i class="fa-solid fa-box"></i> Funds
+            <i className="fa-solid fa-box"></i> Funds
           </p>
           <button
             type="button"
@@ -198,7 +198,7 @@ function CreateTicket() {
         <div className="col-4">
           <p className="fs-5 mb-4">
             {" "}
-            <i class="fa-brands fa-ubuntu"></i> Console
+            <i className="fa-brands fa-ubuntu"></i> Console
           </p>
           <button
             type="button"
@@ -252,7 +252,7 @@ function CreateTicket() {
         <div className="col-4">
           <p className="fs-5 mb-4">
             {" "}
-            <i class="fa-brands fa-nfc-directional"></i> Coin
+            <i className="fa-brands fa-nfc-directional"></i> Coin
           </p>
           <button
             type="button"

@@ -20,63 +20,63 @@ function Footer() {
             <h5>Company</h5>
             <button
               type="button"
-              class="btn btn-link p-0 text-decoration-underline"
+              className="btn btn-link p-0 text-decoration-underline"
             >
               Products
             </button>
             <br></br>
             <button
               type="button"
-              class="btn btn-link p-0 text-decoration-underline"
+              className="btn btn-link p-0 text-decoration-underline"
             >
               About
             </button>
             <br></br>
             <button
               type="button"
-              class="btn btn-link p-0 text-decoration-underline"
+              className="btn btn-link p-0 text-decoration-underline"
             >
               Pricing
             </button>
             <br></br>
             <button
               type="button"
-              class="btn btn-link p-0 text-decoration-underline"
+              className="btn btn-link p-0 text-decoration-underline"
             >
               Referral programme
             </button>
             <br></br>
             <button
               type="button"
-              class="btn btn-link p-0 text-decoration-underline"
+              className="btn btn-link p-0 text-decoration-underline"
             >
               Careers
             </button>
             <br></br>
             <button
               type="button"
-              class="btn btn-link p-0 text-decoration-underline"
+              className="btn btn-link p-0 text-decoration-underline"
             >
               Zerodha.tech
             </button>
             <br></br>
             <button
               type="button"
-              class="btn btn-link p-0 text-decoration-underline"
+              className="btn btn-link p-0 text-decoration-underline"
             >
               Open source
             </button>
             <br></br>
             <button
               type="button"
-              class="btn btn-link p-0 text-decoration-underline"
+              className="btn btn-link p-0 text-decoration-underline"
             >
               Press & media
             </button>
             <br></br>
             <button
               type="button"
-              class="btn btn-link p-0 text-decoration-underline"
+              className="btn btn-link p-0 text-decoration-underline"
             >
               Zerodha Cares (CSR)
             </button>
@@ -86,63 +86,63 @@ function Footer() {
             <h5>Support</h5>
             <button
               type="button"
-              class="btn btn-link p-0 text-decoration-underline"
+              className="btn btn-link p-0 text-decoration-underline"
             >
               Contact us
             </button>
             <br></br>
             <button
               type="button"
-              class="btn btn-link p-0 text-decoration-underline"
+              className="btn btn-link p-0 text-decoration-underline"
             >
               Support portal
             </button>
             <br></br>
             <button
               type="button"
-              class="btn btn-link p-0 text-decoration-underline"
+              className="btn btn-link p-0 text-decoration-underline"
             >
               Z-Connect blog
             </button>
             <br></br>
             <button
               type="button"
-              class="btn btn-link p-0 text-decoration-underline"
+              className="btn btn-link p-0 text-decoration-underline"
             >
               List of charges
             </button>
             <br></br>
             <button
               type="button"
-              class="btn btn-link p-0 text-decoration-underline"
+              className="btn btn-link p-0 text-decoration-underline"
             >
               Downloads & resources
             </button>
             <br></br>
             <button
               type="button"
-              class="btn btn-link p-0 text-decoration-underline"
+              className="btn btn-link p-0 text-decoration-underline"
             >
               Videos
             </button>
             <br></br>
             <button
               type="button"
-              class="btn btn-link p-0 text-decoration-underline"
+              className="btn btn-link p-0 text-decoration-underline"
             >
               Market overview
             </button>
             <br></br>
             <button
               type="button"
-              class="btn btn-link p-0 text-decoration-underline"
+              className="btn btn-link p-0 text-decoration-underline"
             >
               How to file a complaint?
             </button>
             <br></br>
             <button
               type="button"
-              class="btn btn-link p-0 text-decoration-underline"
+              className="btn btn-link p-0 text-decoration-underline"
             >
               Status of your complaints
             </button>
@@ -152,14 +152,14 @@ function Footer() {
             <h5>Account</h5>
             <button
               type="button"
-              class="btn btn-link p-0 text-decoration-underline"
+              className="btn btn-link p-0 text-decoration-underline"
             >
               Open an account
             </button>
             <br></br>
             <button
               type="button"
-              class="btn btn-link p-0 text-decoration-underline"
+              className="btn btn-link p-0 text-decoration-underline"
             >
               Fund transfer
             </button>

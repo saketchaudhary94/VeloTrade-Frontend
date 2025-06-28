@@ -3,10 +3,10 @@ import { Link } from "react-router-dom";
 
 function Navbar() {
   return (
-    <nav class="navbar navbar-expand-lg bg-white border-bottom sticky-top">
-      <div class="container p-2">
+    <nav className="navbar navbar-expand-lg bg-white border-bottom sticky-top">
+      <div className="container p-2">
         <div className="logo">
-          <Link class="navbar-brand" to="/">
+          <Link className="navbar-brand" to="/">
             <img
               src="media/images/logo.png"
               style={{ width: "25%" }}
@@ -14,31 +14,43 @@ function Navbar() {
             />
           </Link>
         </div>
-        <div class="collapse navbar-collapse links" id="navbarSupportedContent">
-          <form class="d-flex" role="search">
-            <ul class="navbar-nav mb-lg-0">
-              <li class="nav-item">
-                <Link class="nav-link active" aria-current="page" to="/signup">
+        <div className="collapse navbar-collapse links" id="navbarSupportedContent">
+          <form className="d-flex" role="search">
+            <ul className="navbar-nav mb-lg-0">
+            <li className="nav-item">
+            <button
+  type="button"
+  className="btn btn-outline-dark fw-bold px-4 py-2 rounded-pill shadow"
+  onClick={() => {
+    console.log("Redirecting...");
+    window.location.href = "https://velotrade-dashboard.netlify.app/";
+  }}
+>
+  Dashboard
+</button>
+              </li>
+              <li className="nav-item">
+                <Link className="nav-link active" aria-current="page" to="/signup">
                   Signup
                 </Link>
               </li>
-              <li class="nav-item">
-                <Link class="nav-link active" to="/about">
+              <li className="nav-item">
+                <Link className="nav-link active" to="/about">
                   About
                 </Link>
               </li>
-              <li class="nav-item">
-                <Link class="nav-link  active" to="/product">
+              <li className="nav-item">
+                <Link className="nav-link  active" to="/product">
                   Products
                 </Link>
               </li>
-              <li class="nav-item">
-                <Link class="nav-link  active" to="/pricing">
+              <li className="nav-item">
+                <Link className="nav-link  active" to="/pricing">
                   Pricing
                 </Link>
               </li>
-              <li class="nav-item">
-                <Link class="nav-link  active" to="/support">
+              <li className="nav-item">
+                <Link className="nav-link  active" to="/support">
                   Support
                 </Link>
               </li>
